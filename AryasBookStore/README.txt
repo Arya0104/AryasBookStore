@@ -26,3 +26,6 @@ Added 3rd party JS and CSS in the layout.
 
 0905
 Added the dropdown layout on the page works fine.
+
+0908
+Added three new project libraries into the solution folder.
