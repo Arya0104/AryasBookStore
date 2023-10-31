@@ -17,3 +17,12 @@ changed the file name in the layout.cshtml
 
 0856
 Changed the navigation properties and changed the footer as well.
+
+0859
+removed the text-dark in the loginPartial
+
+0902
+Added 3rd party JS and CSS in the layout.
+
+0905
+Added the dropdown layout on the page works fine.
