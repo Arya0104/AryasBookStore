@@ -7,3 +7,13 @@ Commented out the SSL portal in the properties and removed options => options.Si
 
 0839
 In HomeController added the breakpoints between the line 22 and 27 and tested.
+
+0842
+Created the Git repository and commited the first changes.
+
+0850
+added the bootstrap.css from bootswatch.com also the site.cs file replaced provided in the blackboard.
+changed the file name in the layout.cshtml
+
+0856
+Changed the navigation properties and changed the footer as well.
