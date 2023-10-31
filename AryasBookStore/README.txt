@@ -29,3 +29,43 @@ Added the dropdown layout on the page works fine.
 
 0908
 Added three new project libraries into the solution folder.
+
+0911
+Data folder is added into the .DataAccess folder and deleted the original Data file.
+installed the packages.
+
+0915
+Deleted the migration folder in Data file.
+
+0918
+Installed another NuGet package in the DataAccess folder.
+
+0920
+Deleted the class files in all the recently added three libraries.
+modified the the namespace to AryasBookStore.DataAccess.Data
+
+0924
+Models folder is moved to the AryasBooks.Models project and deleted the original models folder.
+
+0927
+Change the ErrorViewModels.cs namespace .Models.ViewModels
+
+0929
+Modify Startup.cs service ‘AddContext’ with the using statement
+
+0931 
+Correct any default reference to ErrorViewModel to the new .Models.ViewModels.ErrorViewModels
+0933
+In the Utility project, create a static details class called SD.cs
+
+Add project reference to the main project
+
+0935
+In the DataAccess project add project references to Models and Utility
+
+0939
+Added a ‘Customers’ area to Areas
+
+0943
+Edited the HomeController.cs to explicitly define that the controller is in the Customer Area
+
