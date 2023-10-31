@@ -1,1 +1,1 @@
-﻿
+﻿This is the ASP.NET Project for assignment 2 using MVC core app

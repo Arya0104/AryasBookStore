@@ -69,3 +69,16 @@ Added a ‘Customers’ area to Areas
 0943
 Edited the HomeController.cs to explicitly define that the controller is in the Customer Area
 
+0945
+Move Views > Home and modify the HomeController namespace
+
+0948
+Copy _ViewImport and _ViewStart to Customer Area, Modify the _ViewStart.cshtml to reflect the new path
+
+0950
+Add a new Admin area in Areas
+Add the proper view files and delete the Data and Models folder
+
+0953
+Delete the Controllers folder
+Update the GitHub repo
