@@ -101,3 +101,12 @@ added UnitOfWork and register it to index file
 
 2026
 commit to github
+
+2031
+created CategoryController
+
+2035
+created index view
+
+2038
+linked the category to dropdown menu
