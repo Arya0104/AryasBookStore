@@ -110,3 +110,21 @@ created index view
 
 2038
 linked the category to dropdown menu
+
+2042
+created js file
+
+2052
+added Upsert view
+
+2055
+created two partial views.
+
+2058
+modified the code
+
+2102
+created delete function and all buttons works
+
+2103
+assignment complete
