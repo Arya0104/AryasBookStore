@@ -1,4 +1,6 @@
-﻿using AryasBookStore.DataAccess.Data;
+﻿using AryasBooks.DataAccess.Repository;
+using AryasBooks.DataAccess.Repository.IRepository;
+using AryasBookStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +36,7 @@ namespace AryasBookStore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
