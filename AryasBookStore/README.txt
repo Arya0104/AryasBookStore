@@ -89,3 +89,5 @@ created 2 migration named
 20231107004537_AddDefaultIdentityMigration
 20231107005330_AddCategoryToDb
 
+2008
+created Repository folder and inside that created IRepository folder, And Added interface in IRepository
