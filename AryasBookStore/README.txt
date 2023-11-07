@@ -82,3 +82,10 @@ Add the proper view files and delete the Data and Models folder
 0953
 Delete the Controllers folder
 Update the GitHub repo
+
+
+1953
+created 2 migration named 
+20231107004537_AddDefaultIdentityMigration
+20231107005330_AddCategoryToDb
+
