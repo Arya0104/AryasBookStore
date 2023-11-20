@@ -128,3 +128,11 @@ created delete function and all buttons works
 
 2103
 assignment complete
+
+2023-20-11
+1513
+Cloned repository and started Part-III Section-1.
+
+1515
+Addded CoverType class in .Models project
+
