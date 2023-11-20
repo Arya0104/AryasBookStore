@@ -186,3 +186,20 @@ Added Product to UnitOfWork and IUnitOfWork
 1554
 Built project , worked good
 Finished Section - 1
+
+1558
+Started section-2 
+
+1600
+Added new ProductController to admin area for CRUD operations
+Added some statements mentioned in PPT
+
+1602
+Added new Product viewmodel in Viewmodel in .Models folder
+
+1604
+Installed Microsoft.AspNetCore.Mvc.ViewFeatures package and added statement in ProductController.cs
+
+1608
+Commented out Upsert post method
+Modified API call
