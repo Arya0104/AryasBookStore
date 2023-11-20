@@ -203,3 +203,16 @@ Installed Microsoft.AspNetCore.Mvc.ViewFeatures package and added statement in P
 1608
 Commented out Upsert post method
 Modified API call
+
+1613
+Added Index view to Product in Admin area
+
+1615
+Created product.js by using category.js code and modifying it
+
+1616
+Added Product to navbar by updating _Layout.cshtml
+
+1618
+tested application, ran as expected, clicked continue
+completed section-2
