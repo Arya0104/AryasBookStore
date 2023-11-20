@@ -147,3 +147,18 @@ Added CoverType to UnitOfWork and IUnitOfWork
 
 1524
 Ran migration 20231120202417_addCoverType.cs and updated database
+
+1526
+Added CoverType to navbar by adding it to _Layout.cshtml
+
+1528
+Added CoverType controller with all required mathods
+
+1530
+Created new folder CoverType to Views. Added Index and Upsert view in it
+
+1532
+Added coverType.js to add delete method
+
+1534
+Tested application , ran perfectly.
