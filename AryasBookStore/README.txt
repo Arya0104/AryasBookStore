@@ -162,3 +162,16 @@ Added coverType.js to add delete method
 
 1534
 Tested application , ran perfectly.
+
+1536
+Created new Product class to .Models and solved some errors
+
+1539
+Added its reference to ApplicationDbContext.cs
+
+1540
+Ran migration 20231120204024_addProductToDb.cs and updated database
+
+1542
+Reviewed SOE and reqiered validation is already added.
+Ran migration 20231120204644_addValidationToProduct.cs and updated database
