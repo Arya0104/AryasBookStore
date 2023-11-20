@@ -175,3 +175,14 @@ Ran migration 20231120204024_addProductToDb.cs and updated database
 1542
 Reviewed SOE and reqiered validation is already added.
 Ran migration 20231120204644_addValidationToProduct.cs and updated database
+
+1546
+Added new ProductRepository class to Repository folder
+added new IProductRepository interface to IRepository folder
+
+1550
+Added Product to UnitOfWork and IUnitOfWork
+
+1554
+Built project , worked good
+Finished Section - 1
