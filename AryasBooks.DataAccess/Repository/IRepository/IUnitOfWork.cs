@@ -10,6 +10,7 @@ namespace AryasBooks.DataAccess.Repository.IRepository
     {
         ICategoryRepository Category { get; }
         ISP_Call SP_Call { get; }
+        ICoverTypeRepository CoverType { get; }
 
         void Save();
     }

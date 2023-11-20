@@ -136,3 +136,14 @@ Cloned repository and started Part-III Section-1.
 1515
 Addded CoverType class in .Models project
 
+1517
+Added new CoverTypeRepository class to Repository folder and new ICoverTypeRepository interface to IRepository folder
+
+1519
+Added reference to ApplicationDbContext.cs
+
+1520
+Added CoverType to UnitOfWork and IUnitOfWork
+
+1524
+Ran migration 20231120202417_addCoverType.cs and updated database
