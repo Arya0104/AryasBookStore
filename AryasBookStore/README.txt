@@ -231,4 +231,13 @@ Uncommented Upsert method in  productcontroller
 Modified foriegn key in Product.cs , ran migration 20231128021826_updatedForeignKey.cs and updated database
 
 2122
-Tested Application , Ran perfectly
+Tested Application , Ran perfectly, part-3 completed
+
+2124
+Started Part-4 
+
+2126
+Added httppost method and httpdelete method in productcontroller
+
+2128
+Added IUnitOfWork reference to customer area HomeController.cs
