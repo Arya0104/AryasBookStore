@@ -241,3 +241,16 @@ Added httppost method and httpdelete method in productcontroller
 
 2128
 Added IUnitOfWork reference to customer area HomeController.cs
+
+2134
+Added   services.AddControllersWithViews().AddRazorRuntimeCompilation(); to startup.cs
+
+2136
+Added index view to Customer area
+
+2140
+Modified Product.js to change column names
+
+2145
+Tested application by adding image to new product, ran perfectly
+
