@@ -216,3 +216,19 @@ Added Product to navbar by updating _Layout.cshtml
 1618
 tested application, ran as expected, clicked continue
 completed section-2
+
+2023-11-27
+2110
+Cloned repository , started section3 part-3 
+
+2112
+Added Upsert view to product and added code to it from provided file, created account on tiny.cloud and copied script from it and added to Upsert scripts.
+
+2115
+Uncommented Upsert method in  productcontroller
+
+2118
+Modified foriegn key in Product.cs , ran migration 20231128021826_updatedForeignKey.cs and updated database
+
+2122
+Tested Application , Ran perfectly
